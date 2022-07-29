@@ -1,0 +1,41 @@
+#description{
+  background-color: #e5e6ff;
+  color: #4e4d66;
+  padding: 10px;
+  font-family: 'Times New Roman', serif;
+  text-align:right;
+}
+
+html, image {
+  background-color: #e5e6ff;
+  border: 100px #968cb1;
+  margin-left:auto;
+  margin-right:auto;
+  width: 50%;
+}
+
+#first_heading {
+  color:#3c336c;
+  font-size:50px;
+  font-family: 'Times New Roman', serif;
+}
+
+h2 {
+  color:#3c336c;
+}
+
+h3 {
+  color:#3c336c
+}
+
+
+#comments{
+  clear:both;
+  font-family: 'Times New Roman', serif;
+}
+#comment{
+  padding:8px;
+  border-radius: 10%;
+  background-color:#3c336c;
+  color:#e5e6ff;
+}
